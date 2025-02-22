@@ -1,0 +1,13 @@
+{
+  "name": "video-generator-ai",
+  "version": "1.0.0",
+  "description": "Projeto de geração de vídeos com IA",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
